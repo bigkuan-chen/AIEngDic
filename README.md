@@ -1,5 +1,7 @@
 # AI WordPilot (智慧單字學習系統)
 
+**Live Demo**: [AI WordPilot](https://ai-eng-axhwj6whw-eaglechen-9925s-projects.vercel.app/)
+
 AI WordPilot 是一款結合 Google Gemini 語意分析與間隔重複（Spaced Repetition）演算法的智慧英文單字學習系統。本系統專為提升使用者的單字記憶效率而設計，不僅提供詳細的 AI 單字解析，還能自動為您安排複習時程。
 
 ---
